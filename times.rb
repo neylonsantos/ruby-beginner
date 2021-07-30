@@ -1,4 +1,4 @@
-numero.times do
+2.times do
   puts 'Estou aprendendo ruby!'
 end
 

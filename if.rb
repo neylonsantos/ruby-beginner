@@ -1,5 +1,5 @@
 #if
-day = 'Monday'
+day = 'Sunday'
 lunch = 'normal'
 
 if day == 'Sunday'
