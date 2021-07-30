@@ -1,4 +1,4 @@
-Operadores de atribuição
+Os operadores de atribuição do ruby são:
 =
 +=
 -=
@@ -7,6 +7,7 @@ Operadores de atribuição
 %=
 **=
 
+# Em uso
 a = 2
 a += 4 # a = a + 4
 a -= 4 # a = a - 4
@@ -14,4 +15,3 @@ a *= 4 # a = a * 4
 a /= 4 # a = a / 4
 a %= 4 # a = a % 4
 a **= 4 # a = a ** 4
-puts a

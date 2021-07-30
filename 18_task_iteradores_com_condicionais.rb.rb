@@ -1,3 +1,5 @@
+# Na primeira task deve ser feito um programa usandos todos os metodos vistos até aqui. Abaixo está um exemplo de programa.
+
 result = ''
 loop do
   puts result

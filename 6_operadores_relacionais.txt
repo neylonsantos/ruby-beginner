@@ -1,0 +1,8 @@
+Os operadores relacionais do ruby são:
+
+>
+<
+>=
+<=
+==
+!=
