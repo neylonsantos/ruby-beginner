@@ -1,9 +1,9 @@
 # for
 fruits = ['Maçã', 'Uva', 'Morango']
-f = "Laranja"
+fruit = "Laranja"
 
 for fruit in fruits
   puts fruit
 end
 
-puts f
+puts fruit
