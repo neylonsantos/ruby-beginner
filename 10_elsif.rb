@@ -1,5 +1,5 @@
 # elsif
-day = 'Holiday'
+day = 'Monday'
 
 if day == 'Sunday'
   lunch = 'special'

@@ -1,6 +1,6 @@
 # each
 names = ['Joãozinho', 'Manoel', 'Juca']
-name = 'Leonardo Rocha'
+name = 'Igor'
 
 names.each do |name|
   puts name
@@ -14,6 +14,6 @@ names.each{ |name| puts name };nil
 # Usando each em hash
 posicoes = {1 => 'Primeiro', 2 => 'Segundo', 3 => 'Terceiro'}
 
-posicoes.each do |sapato, banana|
-  puts "chave: #{sapato} valor: #{banana}"
+posicoes.each do |key, value|
+  puts "chave: #{key} valor: #{value}"
 end

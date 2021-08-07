@@ -1,9 +1,9 @@
-product_status = 'closed'
+day = 'Sunday'
 
-unless product_status == 'open'
-  check_change = 'can'
+unless day == 'Monday'
+  lunch = 'normal'
 else
-  check_change = 'can not'
+  lunch = 'special'
 end
 
-puts "You #{check_change} change the product"
+puts "Lunch is #{lunch} today"

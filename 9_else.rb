@@ -1,7 +1,7 @@
 # else
 day = 'Saturday'
 
-if day == 'Monday'
+if day == 'Saturday'
   lunch = 'special'
 else
   lunch = 'normal'
